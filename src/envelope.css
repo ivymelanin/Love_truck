@@ -103,4 +103,7 @@
   .envelope-container{
     width: 40%;
   }
+  .envelope__letter{
+    width: 100%;
+  }
 }
